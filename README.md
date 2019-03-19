@@ -1,3 +1,3 @@
 # to-do-app
 
-Simple to-do app build with Html,css & Javascript
+Simple to-do app build with Html,Css & Javascript
